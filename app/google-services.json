@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1031090794366",
+    "firebase_url": "https://bqtoguidebase.firebaseio.com",
+    "project_id": "bqtoguidebase",
+    "storage_bucket": "bqtoguidebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708183763169:android:7a4de19d8db70d9d",
+        "android_client_info": {
+          "package_name": "com.bqtog.yankoko.bqtoguide2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031090794366-a0iiapl435mjutoodgon94e5ell5dlmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCecbgVMsti-_etRqcx32jLc6kWaNkzoaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
